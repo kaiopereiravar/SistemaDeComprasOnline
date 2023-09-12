@@ -1,0 +1,13 @@
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.AssemblyInfoInputs.cache
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.AssemblyInfo.cs
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\bin\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.deps.json
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\bin\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.dll
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\bin\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.pdb
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\bin\Debug\netcoreapp3.1\SistemaDeComprasOnline.Repository.dll
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\bin\Debug\netcoreapp3.1\SistemaDeComprasOnline.Repository.pdb
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.csproj.CopyComplete
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.dll
+C:\Users\Kaio\Desktop\DesafioVarBanco\SistemaDeComprasOnline.Application\obj\Debug\netcoreapp3.1\SistemaDeComprasOnline.Application.pdb

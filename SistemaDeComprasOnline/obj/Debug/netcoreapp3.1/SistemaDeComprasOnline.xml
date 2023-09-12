@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaDeComprasOnline</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaDeComprasOnline.Controllers.ComprasController.Comprar(SistemaDeComprasOnline.Application.Compras.ComprasRequest)">
+            <summary>
+             Rota responsavel por realizar a compra de algum produto
+            </summary>
+            <returns>Ele retira o valor de uma conta corrente de acordo com o valor da compra</returns>
+            <reponse code='200'>Retorna compra realizada com sucesso</reponse>
+            <response code='400'>Retorna compra nao realizada</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.ComprasController.BuscarHistoricoTransacao(SistemaDeComprasOnline.Application.Compras.ComprasRequest)">
+            <summary>
+             Rota responsavel por buscar o historico de compras realizadas
+            </summary>
+            <reponse code='200'>Retorna historico de compras</reponse>
+            <response code='400'>Retorna que o processo nao pode ser realizado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.ContaCorrenteController.InserirContaCorrente(SistemaDeComprasOnline.Application.ContaCorrente.ContaCorrenteRequest)">
+            <summary>
+             Rota responsavel por Inserir uma conta corrente
+            </summary>
+            <reponse code='200'>Retorna que a conta foi inserida com sucesso</reponse>
+            <response code='400'>Retorna que a conta nao pode ser inserida</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.ContaCorrenteController.BuscarSaldoConta(SistemaDeComprasOnline.Application.Compras.ComprasRequest)">
+            <summary>
+             Rota responsavel por buscar o saldo da conta corrente
+            </summary>
+            <reponse code='200'>Retorna saldo apresentado com sucesso</reponse>
+            <response code='400'>Retorna que o saldo não pode ser acessado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.ContaCorrenteController.BuscarContasExistentes">
+            <summary>
+             Rota responsavel por buscar as contas correntes existentes
+            </summary>
+            <reponse code='200'>Retorna contas apresentadas com sucesso</reponse>
+            <response code='400'>Retorna que as contas não podem ser apresentadas</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.ContaCorrenteController.AtualizarSaldoConta(SistemaDeComprasOnline.Application.ContaCorrente.SaldoContaRequest)">
+            <summary>
+             Rota responsavel por atualizar o saldo das contas correntes
+            </summary>
+            <reponse code='200'>Retorna saldo atualizado com sucesso</reponse>
+            <response code='400'>Retorna que o saldo não pode ser atualizado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.SobreCartaoController.BuscarCartoesExistentes">
+            <summary>
+             Rota responsavel por buscar os cartões existentes nas contas correntes
+            </summary>
+            <reponse code='200'>Retorna cartões apresentados com sucesso</reponse>
+            <response code='400'>Retorna que o saldo não pode ser apresentado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.SobreCartaoController.DeletarCartao(System.Int32)">
+            <summary>
+             Rota responsavel por deletar os cartões existentes nas contas correntes
+            </summary>
+            <reponse code='200'>Retorna cartões apresentados com sucesso</reponse>
+            <response code='400'>Retorna que o saldo não pode ser apresentado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.SobreCartaoController.AtualizarDadosCartao(SistemaDeComprasOnline.Application.SobreCartao.CartaoRequest)">
+            <summary>
+             Rota responsavel por atualizar as informações dos cartões existentes nas contas correntes
+            </summary>
+            <reponse code='200'>Retorna cartões atualizados com sucesso</reponse>
+            <response code='400'>Retorna que o cartão não pode ser atualizado</response>
+        </member>
+        <member name="M:SistemaDeComprasOnline.Controllers.SobreCartaoController.InserirCartao(SistemaDeComprasOnline.Application.SobreCartao.CartaoRequest)">
+            <summary>
+             Rota responsavel por inserir os cartões nas contas correntes
+            </summary>
+            <reponse code='200'>Retorna que os cartões foram inseridos com sucesso</reponse>
+            <response code='400'>Retorna que o cartão não pode ser inserido</response>
+        </member>
+    </members>
+</doc>
